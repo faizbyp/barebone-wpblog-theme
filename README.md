@@ -1,6 +1,6 @@
 # Barebone Wordpress Theme
 
-Made your own fully-customizable Wordpress theme from scratch with PHP and Bootstrap 5 CS framework
+Made your own fully-customizable Wordpress theme from scratch with PHP and Bootstrap 5 CSS framework
 
 ## Setup
 
