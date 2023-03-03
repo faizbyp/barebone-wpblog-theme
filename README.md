@@ -3,9 +3,9 @@
 Made your own fully-customizable Wordpress theme from scratch with PHP and Bootstrap 5 CSS framework
 
 ## Setup
-
+(Assuming that you already have your Wordpress site installed)
 - Fork this repository
-- Add it to your local machine (remote)
+- Add it to `wp-content/themes` directory of your Wordpress site
 - Download and install [Node.js](https://nodejs.org/en/download/)
 - Install node_modules and bootstrap: `npm install`
 
